@@ -1,2 +1,12 @@
 # daily-js-challenges
-🚀 Une collection de défis JavaScript quotidiens pour améliorer sa logique, renforcer ses compétences en code et progresser chaque jour en tant que développeur JS.
+
+🧠 Ce dépôt contient des exercices que je réalise quotidiennement pour m'entraîner et progresser en JavaScript.
+
+## Objectif
+
+Pratiquer régulièrement pour :
+
+- Renforcer ma logique
+- Améliorer ma compréhension du JavaScript
+- Gagner en fluidité et en efficacité
+
